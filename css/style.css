@@ -1,0 +1,13 @@
+.card-items {
+  border: 0;
+}
+
+.footer-items {
+  border: 0;
+  background-color: white;
+}
+
+.categories img {
+  width: 100px;
+  border-radius: 10$;
+}
